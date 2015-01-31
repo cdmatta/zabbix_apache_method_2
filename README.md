@@ -17,5 +17,5 @@ The script and template are taken from https://www.zabbix.org/wiki/Docs/howto/ap
 
 
 ### Customization
-Q: My apache server uses https or is hosted at another url context ?
+Q: My apache server uses https or is hosted at another url context ?  
 A: Please update the python script according to your environment.
